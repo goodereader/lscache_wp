@@ -8,3 +8,16 @@
 
 ############# DIVI ################
 .et_pb_number_counter.active
+
+############Genesis################
+.genesis-nav-menu
+
+############Helps with FOUC########
+.menu-item
+.screen-reader-shortcut
+.screen-reader-text
+.screen-reader-text span
+.smw_center img
+.smw_left img
+.wp-captio
+.site-title
